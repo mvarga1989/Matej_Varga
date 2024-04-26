@@ -66,13 +66,13 @@ Please find my CV [**here**](/documents/MV_CV.pdf).
 
 
 ## Recent Projects
-I am mainly working on projects funded by the European Organization for Nuclear Research ([CERN](https://espace.cern.ch/SU/default.aspx)) and the Swiss Federal Office of Topography ([Swisstopo](https://www.swisstopo.admin.ch/de/wissen-fakten/geodaesie-vermessung.html)).
+Most of the time I am working on projects funded by the European Organization for Nuclear Research ([CERN](https://espace.cern.ch/SU/default.aspx)) and the Swiss Federal Office of Topography ([Swisstopo](https://www.swisstopo.admin.ch/de/wissen-fakten/geodaesie-vermessung.html)).
 
 ## Professional Interests and Activities
 
-My professional interests are in geospatial sciences and industry. I am aiming to learn about novel theoretical findings and use them in original research applications. Topic-wise I am mostly focused on engineering, satellite, physical, and geometric geodesy, which have an enormous potential for complementarity in other scientific disciplines and industries. Thus, I have been intensively working on interdisciplinary projects with academic and industry professionals from geophysics, geoinformatics, agriculture, robotics, civil engineering and architecture.
+My broad professional interests are in geospatial sciences and industry. I am aiming to learn about novel theoretical findings and use them in original research applications. Topic-wise I am mostly focused on engineering, satellite, physical, and geometric geodesy, which have an enormous potential for complementarity in other scientific disciplines and industries. Thus, I have been intensively working on interdisciplinary projects with academic and industry professionals from geophysics, geoinformatics, agriculture, robotics, civil engineering and architecture.
 
-My specific interests are in:
+My interests are in:
 - geodetic reference systems (terrestrial, celestial, height and time);
 - geospatial data collection, processing, integration, analysis, and interpretation using GNSS, total station, level, terrestrial laser scanner, laser tracker, camera, radar, gravimeter, and magnetometer;
 - high-precision GNSS and navigation;
@@ -83,7 +83,7 @@ My specific interests are in:
 - geoid modelling.
 
 ### Research portfolio
-I selected the following contributions from my research portfolio:
+The following contributions are selected from my research portfolio:
 - geoid and gravity field models of the Republic of Croatia, France (Auvergne), Colorado (USA), Mediterranean Sea
 - proposal for the modernization of the Croatian height reference system
 - development of geodetic reference system transformation algorithms, workflows and software, including distortion modelling, for several areas worldwide
