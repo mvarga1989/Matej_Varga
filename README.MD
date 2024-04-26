@@ -1,1 +1,1 @@
-<a href="https://mvarga1989.github.io/Matej_varga/" target="_blank">Access website here.</a>
+<a href="https://mvarga1989.github.io/Matej_Varga/" target="_blank">Access my homepage here.</a>
