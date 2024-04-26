@@ -38,16 +38,16 @@ I am working as a postdoctoral scientist and teaching assistant at the [ETH Zür
  
 </div>
 
-Digital visit card [(vcard)](Matej_Varga_ETH.vcf):
+Digital visit card [(vcard)](images/Matej_Varga_ETH.vcf):
 <p align="center">
 <img src="/QR_code_vcard_vcf.png" alt="alt text" width="200px">
 </p>
 
 ## Biography
-Please find my CV [**here**](https://drive.google.com/file/d/0B_VRy7Z0L1BJWl9MaW43bnJaSFk/view?usp=sharing&resourcekey=0-ESGCxB8uDrtY4nJ2B8ws0w).
+Please find my CV [**here**](/documents/MV_CV.pdf).
 
 ## Professional Networks
-- [**All links on Linktree**](https://mvarga1989.github.io/mvarga1989_linktree/)
+- [**All my links  are available on Linktree**](https://mvarga1989.github.io/mvarga1989_linktree/)
   - <a href="https://scholar.google.com/citations?user=2W9hgJ8AAAAJ" target="_blank"><img src="http://img.shields.io/badge/--4285F4?style=plastic&logo=Google-Scholar&logoColor=white" target="_blank"></a>
   - <a href="http://orcid.org/0000-0002-3453-169X" target="_blank"><img src="https://img.shields.io/badge/-0000--0002--3453--169X-A6CE39?style=plastic&logo=ORCID&logoColor=white" target="_blank"></a>
   - <a href="https://www.researchgate.net/profile/Matej_Varga" target="_blank"><img src="http://img.shields.io/badge/--00CCBB?style=plastic&logo=ResearchGate&logoColor=white" target="_blank"></a>
@@ -126,8 +126,8 @@ Interested in collaborating with me? Reach out via [:e-mail:](mailto:mvarga1989@
 #### You wish to assist in making the list more useful, complete and accurate? Please send me an [:e-mail:](mailto:mvarga1989@gmail.com).
 
 ### Career
-- Job opportunities in geosciences and geospatial industry ([link](https://github.com/mvarga1989/Awesome_Geospatial_jobs))
-- Geospatial events (conferences, workshops) ([link](https://github.com/mvarga1989/Geoevents.git))
+- Job opportunities in geosciences and geospatial industry ([](https://github.com/mvarga1989/Awesome_Geospatial_jobs))
+- Geospatial events (conferences, workshops) ([](https://github.com/mvarga1989/Geoevents.git))
 
 ### Knowledge, data, publications
 - Geospatial sciences journals, mostly focused on geodetic, geomatics, geoinformatics, and geophysics [](https://github.com/mvarga1989/Geodetic_and_Geomatics_Journals)
