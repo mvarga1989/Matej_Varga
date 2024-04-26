@@ -123,7 +123,7 @@ Interested in collaborating with me? Reach out via [:e-mail:](mailto:mvarga1989@
 
 ## Community lists that I am maintaining
 
-#### You wish to assist in making the list more useful, complete and accurate? Please send me an [:e-mail:](mailto:mvarga1989@gmail.com).
+#### You wish to assist in making lists more useful, complete and accurate? Please send me an [:e-mail:](mailto:mvarga1989@gmail.com).
 
 ### Career
 - Job opportunities in geosciences and geospatial industry ([](https://github.com/mvarga1989/Awesome_Geospatial_jobs))

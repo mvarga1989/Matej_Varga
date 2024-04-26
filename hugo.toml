@@ -86,7 +86,7 @@ style = "github-dark"
 [[menu.main]]
   name = "Publications"
   weight = 3
-  url = "Publications/"
+  url = "publications/"
   #teaching
   [[menu.main]]
   name = "Teaching"
