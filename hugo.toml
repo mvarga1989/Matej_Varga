@@ -1,0 +1,113 @@
+baseurl = "https://mvarga1989.github.io/Matej_Varga/"
+title = "Matej Varga"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+enableEmoji = true
+ 
+paginate = 20
+
+disqusShortname = "MAVA"
+
+enableGitInfo = true
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Matej Varga"
+  info = "researcher  | scientist  | lecturer  <br /> PhD in Physical Geodesy | MSc Geodesy and Geoinformatics"
+  description = "Matej Varga"
+  keywords = "geodesy,geomatics,geospatial,engineering"
+  avatarurl = "images/avatar1.png"
+
+  #faviconSVG = "/img/favicon.svg"
+  #favicon_32 = "images/favicon.png"
+  #favicon_16 = "images/favicon.png"
+
+  since = ""
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/mvarga1989?tab=repositories/"
+[[params.social]]
+  name = "Google Scholar"
+  icon = "fa-brands fa-google-scholar fa-2x"
+  weight = 2
+  url = "https://scholar.google.hr/citations?user=2W9hgJ8AAAAJ"
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/vargamatej"
+[[params.social]]
+  name = "Researchgate"
+  icon = "fa-brands fa-researchgate  fa-2x"
+  weight = 3
+  url = "https://www.researchgate.net/profile/Matej_Varga"
+[[params.social]]
+  name = "X Twitter"
+  icon = "fa-brands fa-x-twitter fa-2x"
+  weight = 4
+  url = "https://twitter.com/mvarga17"
+[[params.social]]
+  name = "Mail"
+  icon = "fa fa-envelope fa-2x"
+  weight = 10
+  url = "mailto:mvarga1989@gmail.com"
+  
+# Menu links
+[[menu.main]]
+  name = "Home"
+  weight = 1
+  url  = "/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
+[[menu.main]]
+  name = "Publications"
+  weight = 3
+  url = "Publications/"
+  #teaching
+  [[menu.main]]
+  name = "Teaching"
+  weight = 4
+  url = "teaching/"
+[[menu.main]]
+  name = "Linktree"
+  weight = 20
+  url = "https://mvarga1989.github.io/mvarga1989_linktree/"
+[[menu.main]]
+  name = "CV"
+  weight = 5
+  url = "documents/MV_CV.pdf"
+[[menu.main]]
+  name = "Contact"
+  weight = 10
+  url = "mailto:mvarga1989@gmail.com"
+#[[menu.main]]
+#  name = "Blog"
+#  weight = 3
+#  url  = "posts/"
+
+[markup.goldmark.renderer]
+unsafe = true

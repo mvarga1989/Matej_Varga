@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matej Varga</title>
+    <link>http://localhost:1313/Matej_Varga/</link>
+    <description>Recent content on Matej Varga</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/Matej_Varga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/Matej_Varga/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Matej_Varga/about/</guid>
+      <description>I am working as a postdoctoral scientist and teaching assistant at the ETH Zürich, Institute of Geodesy and Photogrammetry in the group of Geosensors and Engineering Geodesy led by Prof. Dr. Andreas Wieser.&#xA;Contents Link to heading Introduction Contact Biography Professional Networks News Recent Projects Professional Interests and Activities Selected Contributions Teaching Academic And Industry Collaborations Supervising Students and Researchers Offered student topics Community Lists That I am Maintaining GitHub Metrics Contact Link to heading Digital visit card (vcard):</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/Matej_Varga/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Matej_Varga/publications/</guid>
+      <description>Books Link to heading Varga, M. (2020): Geometrical geodesy (in Croatian). Varga, M. (2020): Physical geodesy (in Croatian, revision in progress). Project reports Link to heading Varga, M., Wieser, A. (2024): Concept for calibration, checking and testing of the geodetic equipment for the FCC. Deliverable IGP-AA-2.5. CHART project FCC-Geodesy IGP-AA-2.&#xA;Varga, M., Wieser, A. (2024): Conceptual design report for the connection of the geodetic underground monitoring system to the civil engineering one.</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/Matej_Varga/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Matej_Varga/research/</guid>
+      <description>Books Link to heading Varga, M. (2020): Geometrical geodesy (in Croatian). Varga, M. (2020): Physical geodesy (in Croatian, revision in progress). Project reports Link to heading Varga, M., Wieser, A. (2024): Concept for calibration, checking and testing of the geodetic equipment for the FCC. Deliverable IGP-AA-2.5. CHART project FCC-Geodesy IGP-AA-2.&#xA;Varga, M., Wieser, A. (2024): Conceptual design report for the connection of the geodetic underground monitoring system to the civil engineering one.</description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/Matej_Varga/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Matej_Varga/teaching/</guid>
+      <description>Supervising students and researchers Link to heading I am accepting the supervision of responsible and motivated internal (ETHZ) and external students at the BSc, MSc, and PhD levels.&#xA;Topics are not necessarily predetermined and can be adapted to student&amp;rsquo;s preferences and ideas. Most of the topics can be taken as either a Bachelor&amp;rsquo;s or Master’s thesis, or adapted as a Master&amp;rsquo;s project.&#xA;Interested? Reach out via &amp;#x1f4e7;&#xA;Own topics Link to heading If you have an idea and wish to pursue your topic within my research scope, please send me a brief research plan.</description>
+    </item>
+  </channel>
+</rss>
