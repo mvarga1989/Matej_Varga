@@ -102,7 +102,7 @@ I have been involved in research and development (R&D) and consultancy projects 
 
 Interested in collaborating with me? Reach out via [:e-mail:](mailto:mvarga1989@gmail.com?Subject=Project%20collaboration%20inquiry)
 
-## Community lists that I am maintaining
+## Community lists that I maintain on GitHub
 
 #### You wish to assist in making lists more useful, complete and accurate? Please send me an [:e-mail:](mailto:mvarga1989@gmail.com).
 
@@ -113,31 +113,15 @@ Interested in collaborating with me? Reach out via [:e-mail:](mailto:mvarga1989@
 ### Knowledge, data, publications
 - Geospatial sciences journals, mostly focused on geodetic, geomatics, geoinformatics, and geophysics [](https://github.com/mvarga1989/Geodetic_and_Geomatics_Journals)
 - Geospatial and geomatics industry blogs, magazines and websites [](https://github.com/mvarga1989/The-list-of-geospatial-magazines)
+
+### Reality capture
 - Photogrammetry and LiDAR datasets (close-range images, aerial images, satellite images) to learn and master reality capture and 3D modelling [](https://github.com/mvarga1989/Datasets_Reality_capture_3Dmodelling.git)
 - Terrestrial, airborne and handheld laser scanners and software [](https://github.com/mvarga1989/Awesome_Laser_scanners)
+
+### GNSS
 - Free low-cost and smartphone GNSS receiver datasets to test and improve navigation and GNSS positioning algorithms [](https://github.com/mvarga1989/Awesome_list_of_free_smartphone_GNSS_datasets)
 - GNSS CORS networks [](https://github.com/mvarga1989/The-list-of-GNSS-CORS-RTK-networks)
 - GNSS receiver manufacturers [](https://github.com/mvarga1989/Awesome_GNSSreceivers)
 - GNSS tables (clocks, ephemeris, antennas) [](https://github.com/mvarga1989/An_awesome_list_of_GNSS_tables)
 
-
-## GitHub Metrics
-![Metrics](https://metrics.lecoq.io/mvarga1989?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-
-
-[![GitHub followers](https://img.shields.io/github/followers/mvarga1989?logo=GitHub&style=for-the-badge)](https://github.com/mvarga1989)
-[![GitHub Stars](https://img.shields.io/github/stars/mvarga1989?logo=github&style=for-the-badge)](https://github.com/mvarga1989) 
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mvarga1989)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mvarga1989)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mvarga1989)
-
-
-<div align="center">
-  <a href="https://github.com/mvarga1989">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvarga1989&show_icons=true&theme=normal&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvarga1989&layout=compact&langs_count=7"/>
-</div>
-</div>
 
