@@ -1,5 +1,5 @@
 +++
-title = "About me"
+title = "About"
 +++
 
 ![](/images/avatar.png#avatar-about)
@@ -44,7 +44,7 @@ Digital visit card [(vcard)](images/Matej_Varga_ETH.vcf):
 </p>
 
 ## Biography
-Please find my CV [**here**](/documents/MV_CV.pdf).
+Please find my CV [**here**](documents/MV_CV.pdf).
 
 ## Professional Networks
 - [**All my links  are available on Linktree**](https://mvarga1989.github.io/mvarga1989_linktree/)
@@ -96,30 +96,11 @@ The following contributions are selected from my research portfolio:
 - concept for calibration, control and testing of the geodetic equipment for the CERN FCC
 - GNSS smartphone positioning and navigation in different conditions and areas (several datasets in Slovakia and the USA)
 
-### Teaching
-
-| Course name                                           | Total semesters | Responsibilities                                 |
-|------------------------------------------------------|-----------------|---------------------------------------------------|
-| Engineering Geodesy                                  | 4               | E, S, C                                           |
-| Geospatial Reference Systems and Geometrical Geodesy | 11              | L, E, S                                           |
-| Physical Geodesy                                     | 8               | L, E                                              |
-| Geophysical Geodesy                                  | 6               | S                                                 |
-| Geomagnetism                                         | 6               | E, S, C                                           |
-| Satellite Geodesy                                    | 5               | E, C                                              |
-| Global Geodesy                                       | 5               | S                                                 |
-| Navigation                                           | 2               | E, C                                              |
-| Analysis and Processing of Geodetic Measurements     | 2               | E                                                 |
-| Industrial Metrology and Machine Vision              | 1               | S                                                 |
-| Special algorithms for processing geodetic measurements | 1             | E                                                 |
-| :warning: L: lectures, E: exercises, S: seminar, C: field campaigns           |                 |  |
-
 ### Academic and industry collaborations
 
 I have been involved in research and development (R&D) and consultancy projects as the principal or assisting researcher. Additionally, I perform expert and target-specific lecturing, training and capacity building for professionals coming from different fields and backgrounds.
 
 Interested in collaborating with me? Reach out via [:e-mail:](mailto:mvarga1989@gmail.com?Subject=Project%20collaboration%20inquiry)
-
-
 
 ## Community lists that I am maintaining
 
