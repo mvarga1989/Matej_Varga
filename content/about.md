@@ -6,6 +6,9 @@ title = "About"
 
 I am working as a postdoctoral scientist and teaching assistant at the [ETH Zürich](https://ethz.ch/de.html), [Institute of Geodesy and Photogrammetry](https://igp.ethz.ch/) in the group of [Geosensors and Engineering Geodesy](https://gseg.igp.ethz.ch/) led by Prof. Dr. [Andreas Wieser](https://gseg.igp.ethz.ch/people/group-head/prof-dr--andreas-wieser.html).
 
+![](/images/Twitter_heading-min1.png)
+![](Twitter_heading-min1.png)
+<img src = "/Twitter_heading-min1.png">
 <!---[<img src="images/Twitter_heading-min.png"/>]()--->
 <!--- [<img src="images/Twitter_heading-min.png"/>]()  --->
 
@@ -40,7 +43,7 @@ I am working as a postdoctoral scientist and teaching assistant at the [ETH Zür
 
 Digital visit card [(vcard)](images/Matej_Varga_ETH.vcf):
 <p align="center">
-<img src="/QR_code_vcard_vcf.png" alt="alt text" width="200px">
+<img src="QR_code_vcard_vcf.png" alt="alt text" width="200px">
 </p>
 
 ## Biography
