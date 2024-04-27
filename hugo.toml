@@ -16,7 +16,7 @@ style = "github-dark"
 
 [params]
   author = "Matej Varga"
-  info = "researcher  | scientist  | lecturer  <br /> PhD in Physical Geodesy | MSc Geodesy and Geoinformatics"
+  info = "scientist  | lecturer  <br />  MSc Geodesy and Geoinformatics | PhD in Geodesy"
   description = "Matej Varga"
   keywords = "geodesy,geomatics,geospatial,engineering"
   avatarurl = "images/avatar1.png"
