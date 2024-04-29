@@ -6,7 +6,8 @@ title = "About me"
 
 I am working as a postdoctoral scientist and teaching assistant at the [ETH Zürich](https://ethz.ch/de.html), [Institute of Geodesy and Photogrammetry](https://igp.ethz.ch/) in the group of [Geosensors and Engineering Geodesy](https://gseg.igp.ethz.ch/) led by [Prof. Dr. Andreas Wieser](https://gseg.igp.ethz.ch/people/group-head/prof-dr--andreas-wieser.html).
 
-I am passionate about geospatial data collection and processing. I enjoy exploring novel and original measurement systems and applications. Some part of 
+I am passionate about geospatial data collection and processing. I enjoy exploring novel and original measurement systems and applications. Instruments which I have specialised are GNSS, total station, level, terrestrial laser scanner, laser tracker, camera, radar, gravimeter, and magnetometer.
+
 ![2](Twitter_heading-min1.png)
 <!--- [<img src="Twitter_heading-min1.png"/>]() --->
 
