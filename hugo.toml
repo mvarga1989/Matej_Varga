@@ -99,7 +99,7 @@ style = "github-dark"
 [[menu.main]]
   name = "CV"
   weight = 5
-  url="CV/"
+  url="cv/"
 [[menu.main]]
   name = "Contact"
   weight = 10
