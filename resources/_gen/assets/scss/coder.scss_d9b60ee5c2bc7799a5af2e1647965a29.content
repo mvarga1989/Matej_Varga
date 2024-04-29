@@ -10336,8 +10336,8 @@ html {
   font-size: 62.5%; }
 
 body {
-  color: #212121;
-  background-color: #fafafa;
+  color: #000;
+  background-color: #fff;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, "游ゴシック", "PingFang SC", STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   font-size: 1.8em;
   font-weight: 400;
@@ -10471,11 +10471,11 @@ code {
   font-weight: 400;
   border-radius: 0.6rem;
   padding: 0.3rem 0.6rem;
-  background-color: #ccc;
-  color: #212121; }
+  background-color: #000;
+  color: #000; }
 
 blockquote {
-  border-left: 2px solid #e0e0e0;
+  border-left: 2px solid #fff;
   padding-left: 2rem;
   line-height: 2.2rem;
   font-weight: 400;
@@ -10598,13 +10598,13 @@ figure {
   .content .post .post-meta .tags .tag {
     display: inline-block;
     padding: 0.3rem 0.6rem;
-    background-color: #e0e0e0;
+    background-color: #fff;
     border-radius: 0.6rem;
     line-height: 1.4em; }
     .content .post .post-meta .tags .tag a {
-      color: #212121; }
+      color: #000; }
     .content .post .post-meta .tags .tag a:active {
-      color: #212121; }
+      color: #000; }
   .content figure {
     margin: 0;
     padding: 0; }
@@ -10643,7 +10643,7 @@ figure {
     .list ul li .title {
       font-size: 1.8rem;
       flex: 2;
-      color: #212121;
+      color: #000;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, "游ゴシック", "PingFang SC", STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
       font-weight: 700; }
       .list ul li .title:hover, .list ul li .title:focus {
@@ -10677,7 +10677,7 @@ figure {
         display: inline-block;
         position: relative; }
         .centered .about ul li a {
-          color: #212121;
+          color: #000;
           text-transform: uppercase;
           margin-left: 1rem;
           margin-right: 1rem;
@@ -10714,7 +10714,7 @@ figure {
     font-weight: 700;
     margin: 0 -0.75rem;
     padding: 0.2rem 3.5rem;
-    border-bottom: 1px solid #fafafa; }
+    border-bottom: 1px solid #fff; }
     .notice .notice-title i {
       position: absolute;
       top: 50%;
@@ -10782,7 +10782,7 @@ figure {
     font-size: 1.7rem;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, "游ゴシック", "PingFang SC", STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
     font-weight: 600;
-    color: #212121; }
+    color: #000; }
   .navigation a:hover, .navigation a:focus {
     color: #1565c0; }
   .navigation .navigation-title {
@@ -10804,9 +10804,9 @@ figure {
         padding: 0;
         max-height: 0;
         width: 100%;
-        background-color: #fafafa;
-        border-top: solid 2px #e0e0e0;
-        border-bottom: solid 2px #e0e0e0;
+        background-color: #fff;
+        border-top: solid 2px #fff;
+        border-bottom: solid 2px #fff;
         transition: opacity 0.25s, max-height 0.15s linear; } }
     .navigation .navigation-list .navigation-item {
       float: left;
@@ -10828,7 +10828,7 @@ figure {
         display: none; } }
     @media only screen and (max-width: 768px) {
       .navigation .navigation-list .menu-separator {
-        border-top: 2px solid #212121;
+        border-top: 2px solid #000;
         margin: 0 8rem; }
         .navigation .navigation-list .menu-separator span {
           display: none; } }
@@ -10848,7 +10848,7 @@ figure {
         position: relative;
         visibility: hidden; }
         .navigation #menu-toggle:checked + label > i {
-          color: #e0e0e0; }
+          color: #fff; }
         .navigation #menu-toggle:checked + label + ul {
           visibility: visible;
           opacity: 1;
@@ -10866,7 +10866,7 @@ figure {
     .navigation .menu-button i:hover, .navigation .menu-button i:focus {
       color: #000; }
   .navigation i {
-    color: #212121;
+    color: #000;
     cursor: pointer; }
     .navigation i:hover, .navigation i:focus {
       color: #1565c0; }
@@ -10907,8 +10907,8 @@ figure {
   .tabs input.tab-input {
     display: none; }
   .tabs label.tab-label {
-    background-color: #e0e0e0;
-    border-color: #ccc;
+    background-color: #fff;
+    border-color: #000;
     border-radius: 4px 4px 0px 0px;
     border-style: solid;
     border-bottom-style: hidden;
@@ -10921,10 +10921,10 @@ figure {
     top: 1px;
     user-select: none; }
   .tabs input.tab-input:checked + label.tab-label {
-    background-color: #fafafa; }
+    background-color: #fff; }
   .tabs .tab-content {
-    background-color: #fafafa;
-    border-color: #ccc;
+    background-color: #fff;
+    border-color: #000;
     border-style: solid;
     border-width: 1px;
     display: none;
@@ -10943,12 +10943,12 @@ figure {
 .taxonomy .taxonomy-element {
   display: block;
   padding: 0.3rem 0.9rem;
-  background-color: #e0e0e0;
+  background-color: #fff;
   border-radius: 0.6rem; }
   .taxonomy .taxonomy-element a {
-    color: #212121; }
+    color: #000; }
   .taxonomy .taxonomy-element a:active {
-    color: #212121; }
+    color: #000; }
 
 .footer {
   width: 100%;
@@ -10972,7 +10972,7 @@ figure {
     height: 3rem;
     font-size: 2rem;
     color: #000;
-    background-color: #e0e0e0;
+    background-color: #fff;
     border-radius: 0.2rem;
     opacity: 0.5;
     transition: all 0.25s ease-in; }

@@ -46,8 +46,7 @@ The following topics are open at the moment:
 
 
 ## Students graduated or worked under my supervision
-I have been leading and supervising students in unique projects. I have had the pleasure of working with the following people:
-
+I have been supervising the following students in unique projects:
 - Philippe Bättig
 - [Colin Wallimann](https://www.linkedin.com/in/colin-wallimann/)
 - Nils Meier
@@ -67,3 +66,5 @@ I have been leading and supervising students in unique projects. I have had the 
 - Mia Lozo
 - Antonio David Šiško
 - Thomas Denich-Balog
+
+Check out their thesis'  ![**here**](/publications/#mentoring-and-supervision).

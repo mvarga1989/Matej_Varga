@@ -8,13 +8,8 @@ I am working as a postdoctoral scientist and teaching assistant at the [ETH Zür
 
 
 ![2](Twitter_heading-min1.png)
-[<img src="Twitter_heading-min1.png"/>]()
+<!--- [<img src="Twitter_heading-min1.png"/>]() --->
 
-<!--- ![1](/images/Twitter_heading-min1.png) --->
-<!---  ![3](images/Twitter_heading-min1.png) --->
-<!---  <img src = "/Twitter_heading-min1.png"> --->
-
-<!--- [<img src="images/Twitter_heading-min.png"/>]()  --->
 
 <!--- # Hi 👋! I am Matej Varga and this is my homepage
 - [**All links**](https://mvarga1989.github.io/mvarga1989_linktree/)
@@ -53,15 +48,12 @@ Digital visit card (vcard) scan: [](https://mvarga1989.github.io/mvarga1989_link
 </h1>
 
 ## Biography
-Find my CV ![](MV_CV.pdf).
+Download my biography in pdf format here [:link:](MV_CV.pdf).
 
 ## Professional Networks
-- [**All my links  are available on Linktree**](https://mvarga1989.github.io/mvarga1989_linktree/)
-  - <a href="https://scholar.google.com/citations?user=2W9hgJ8AAAAJ" target="_blank"><img src="http://img.shields.io/badge/--4285F4?style=plastic&logo=Google-Scholar&logoColor=white" target="_blank"></a>
-  - <a href="http://orcid.org/0000-0002-3453-169X" target="_blank"><img src="https://img.shields.io/badge/-0000--0002--3453--169X-A6CE39?style=plastic&logo=ORCID&logoColor=white" target="_blank"></a>
-  - <a href="https://www.researchgate.net/profile/Matej_Varga" target="_blank"><img src="http://img.shields.io/badge/--00CCBB?style=plastic&logo=ResearchGate&logoColor=white" target="_blank"></a>
-  - <a href="http://hr.linkedin.com/in/vargamatej" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  - <a href="https://twitter.com/mvarga17" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+
+- <a href="https://scholar.google.com/citations?user=2W9hgJ8AAAAJ" target="_blank"><img src="http://img.shields.io/badge/--4285F4?style=plastic&logo=Google-Scholar&logoColor=white" target="_blank"></a>  <a href="http://orcid.org/0000-0002-3453-169X" target="_blank"><img src="https://img.shields.io/badge/-0000--0002--3453--169X-A6CE39?style=plastic&logo=ORCID&logoColor=white" target="_blank"></a>  <a href="https://www.researchgate.net/profile/Matej_Varga" target="_blank"><img src="http://img.shields.io/badge/--00CCBB?style=plastic&logo=ResearchGate&logoColor=white" target="_blank"></a> <a href="http://hr.linkedin.com/in/vargamatej" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://twitter.com/mvarga17" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+- All my links  are available here [](https://mvarga1989.github.io/mvarga1989_linktree/)
 
 ## News
 - [**2024/02/15**]: Leading several student projects, including (i)smartphone navigation using ML and factor graph optimization, (ii) total station and laser scanning testing and calibration, and (iii) 3D modelling of Lausanne Cathedral.
@@ -74,14 +66,14 @@ Find my CV ![](MV_CV.pdf).
 - [**2022/06/01**]: Presentation titled "FCC coordinate reference and networks" on the CERN Future Circular Collider(FCC) week in Paris, France.
 
 
-## Recent Projects
-Most of the time I am working on projects funded by the European Organization for Nuclear Research ([CERN](https://espace.cern.ch/SU/default.aspx)) and the Swiss Federal Office of Topography ([Swisstopo](https://www.swisstopo.admin.ch/de/wissen-fakten/geodaesie-vermessung.html)).
+## Projects
+I am working on projects funded by the European Organization for Nuclear Research ([CERN](https://espace.cern.ch/SU/default.aspx)) and the Swiss Federal Office of Topography ([Swisstopo](https://www.swisstopo.admin.ch/de/wissen-fakten/geodaesie-vermessung.html)).
 
-## Professional Interests and Activities
+## Interests and Activities
 
-My broad professional interests are in geospatial sciences and industry. I am aiming to learn about novel theoretical findings and use them in original research applications. Topic-wise I am mostly focused on engineering, satellite, physical, and geometric geodesy, which have an enormous potential for complementarity in other scientific disciplines and industries. Thus, I have been intensively working on interdisciplinary projects with academic and industry professionals from geophysics, geoinformatics, agriculture, robotics, civil engineering and architecture.
+My broad interests are in geospatial sciences and industry. I am aiming to learn about novel theoretical findings and use them in original research applications. Topic-wise I am mostly focused on engineering, satellite, physical, and geometric geodesy, which have an enormous potential for complementarity in other scientific disciplines and industries. Thus, I have been intensively working on interdisciplinary projects with academic and industry professionals from geophysics, geoinformatics, agriculture, robotics, civil engineering and architecture.
 
-My interests are in:
+My specific interests are in:
 - geodetic reference systems (terrestrial, celestial, height and time);
 - geospatial data collection, processing, integration, analysis, and interpretation using GNSS, total station, level, terrestrial laser scanner, laser tracker, camera, radar, gravimeter, and magnetometer;
 - high-precision GNSS and navigation;
@@ -113,7 +105,7 @@ Interested in collaborating with me? Reach out via e-mail [:e-mail:](mailto:mvar
 
 ## Community lists that I maintain on GitHub
 
-#### You wish to assist in making lists more useful, complete and accurate? Please send me an e-mail [:e-mail:](mailto:mvarga1989@gmail.com).
+##### If you wish to assist in making lists more useful, complete and accurate, please send me an e-mail [:e-mail:](mailto:mvarga1989@gmail.com).
 
 ### Career
 - Job opportunities in geosciences and geospatial industry ([](https://github.com/mvarga1989/Awesome_Geospatial_jobs))
