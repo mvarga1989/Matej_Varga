@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "About me"
 +++
 
 ![](/images/avatar.png#avatar-about)

@@ -1,6 +1,5 @@
 +++
 title = "CV"
-theme = "hugo-embed-pdf-shortcode"
 enableInlineShortcodes = true
 +++
 
