@@ -6,7 +6,7 @@ title = "About me"
 
 I am working as a postdoctoral scientist and teaching assistant at the [ETH Zürich](https://ethz.ch/de.html), [Institute of Geodesy and Photogrammetry](https://igp.ethz.ch/) in the group of [Geosensors and Engineering Geodesy](https://gseg.igp.ethz.ch/) led by [Prof. Dr. Andreas Wieser](https://gseg.igp.ethz.ch/people/group-head/prof-dr--andreas-wieser.html).
 
-
+I am passionate about geospatial data collection and processing. I enjoy exploring novel and original measurement systems and applications. Some part of 
 ![2](Twitter_heading-min1.png)
 <!--- [<img src="Twitter_heading-min1.png"/>]() --->
 
@@ -32,21 +32,6 @@ I am working as a postdoctoral scientist and teaching assistant at the [ETH Zür
   - [Community Lists That I am Maintaining](#community-lists-that-i-am-maintaining)
   - [GitHub Metrics](#github-metrics)
   
-## Contact
-
-<div align="center">
-  <a href="http://hr.linkedin.com/in/vargamatej/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mvarga1989@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-</div>
-
-Digital visit card (vcard) download: [](https://mvarga1989.github.io/mvarga1989_linktree/images/Matej_Varga_ETH.vcf)
-
-Digital visit card (vcard) scan: [](https://mvarga1989.github.io/mvarga1989_linktree/images/Matej_Varga_ETH.vcf)
-<h1 align="center">
-<img src="QR_code_vcard_vcf.png" alt="alt text" width="200px">
-</h1>
-
 ## Biography
 Download my biography in pdf format here [:link:](MV_CV.pdf).
 

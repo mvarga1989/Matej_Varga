@@ -100,11 +100,10 @@ style = "github-dark"
   name = "CV"
   weight = 5
   url="CV/"
- # url = "documents/MV_CV.pdf"
 [[menu.main]]
   name = "Contact"
   weight = 10
-  url = "mailto:mvarga1989@gmail.com"
+  url = "contact/"
 #[[menu.main]]
 #  name = "Blog"
 #  weight = 3
