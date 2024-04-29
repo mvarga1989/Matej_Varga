@@ -35,7 +35,7 @@ style = "github-dark"
   # customCSS = ["css/custom.css"]
   customSCSS = ["scss/custom.scss"]
   # customJS = ["js/custom.js"]
-
+  
 [taxonomies]
   category = "categories"
   series = "series"
@@ -99,7 +99,8 @@ style = "github-dark"
 [[menu.main]]
   name = "CV"
   weight = 5
-  url = "documents/MV_CV.pdf"
+  url="CV"
+ # url = "documents/MV_CV.pdf"
 [[menu.main]]
   name = "Contact"
   weight = 10

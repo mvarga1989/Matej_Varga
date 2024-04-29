@@ -2,9 +2,6 @@
 title = "Teaching"
 +++
 
-# Teaching
-
-
 ## Lectures, exercises, seminars
 
 | Course name                                           | Total semesters | Responsibilities                                 |
@@ -67,4 +64,4 @@ I have been supervising the following students in unique projects:
 - Antonio David Šiško
 - Thomas Denich-Balog
 
-Check out their thesis'  ![**here**](/publications/#mentoring-and-supervision).
+Check out their thesis'  [**here**](publications/#mentoring-and-supervision).
