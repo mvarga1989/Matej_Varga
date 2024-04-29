@@ -4,12 +4,16 @@ title = "About"
 
 ![](/images/avatar.png#avatar-about)
 
-I am working as a postdoctoral scientist and teaching assistant at the [ETH Zürich](https://ethz.ch/de.html), [Institute of Geodesy and Photogrammetry](https://igp.ethz.ch/) in the group of [Geosensors and Engineering Geodesy](https://gseg.igp.ethz.ch/) led by Prof. Dr. [Andreas Wieser](https://gseg.igp.ethz.ch/people/group-head/prof-dr--andreas-wieser.html).
+I am working as a postdoctoral scientist and teaching assistant at the [ETH Zürich](https://ethz.ch/de.html), [Institute of Geodesy and Photogrammetry](https://igp.ethz.ch/) in the group of [Geosensors and Engineering Geodesy](https://gseg.igp.ethz.ch/) led by [Prof. Dr. Andreas Wieser](https://gseg.igp.ethz.ch/people/group-head/prof-dr--andreas-wieser.html).
 
-![](/images/Twitter_heading-min1.png)
-![](Twitter_heading-min1.png)
-<img src = "/Twitter_heading-min1.png">
-<!---[<img src="images/Twitter_heading-min.png"/>]()--->
+
+![2](Twitter_heading-min1.png)
+[<img src="Twitter_heading-min1.png"/>]()
+
+<!--- ![1](/images/Twitter_heading-min1.png) --->
+<!---  ![3](images/Twitter_heading-min1.png) --->
+<!---  <img src = "/Twitter_heading-min1.png"> --->
+
 <!--- [<img src="images/Twitter_heading-min.png"/>]()  --->
 
 <!--- # Hi 👋! I am Matej Varga and this is my homepage
@@ -41,13 +45,15 @@ I am working as a postdoctoral scientist and teaching assistant at the [ETH Zür
  
 </div>
 
-Digital visit card [(vcard)](images/Matej_Varga_ETH.vcf):
-<p align="center">
+Digital visit card (vcard) download: [](https://mvarga1989.github.io/mvarga1989_linktree/images/Matej_Varga_ETH.vcf)
+
+Digital visit card (vcard) scan: [](https://mvarga1989.github.io/mvarga1989_linktree/images/Matej_Varga_ETH.vcf)
+<h1 align="center">
 <img src="QR_code_vcard_vcf.png" alt="alt text" width="200px">
-</p>
+</h1>
 
 ## Biography
-Please find my CV [**here**](documents/MV_CV.pdf).
+Find my CV ![](MV_CV.pdf).
 
 ## Professional Networks
 - [**All my links  are available on Linktree**](https://mvarga1989.github.io/mvarga1989_linktree/)
@@ -103,11 +109,11 @@ The following contributions are selected from my research portfolio:
 
 I have been involved in research and development (R&D) and consultancy projects as the principal or assisting researcher. Additionally, I perform expert and target-specific lecturing, training and capacity building for professionals coming from different fields and backgrounds.
 
-Interested in collaborating with me? Reach out via [:e-mail:](mailto:mvarga1989@gmail.com?Subject=Project%20collaboration%20inquiry)
+Interested in collaborating with me? Reach out via e-mail [:e-mail:](mailto:mvarga1989@gmail.com?Subject=Project%20collaboration%20inquiry)
 
 ## Community lists that I maintain on GitHub
 
-#### You wish to assist in making lists more useful, complete and accurate? Please send me an [:e-mail:](mailto:mvarga1989@gmail.com).
+#### You wish to assist in making lists more useful, complete and accurate? Please send me an e-mail [:e-mail:](mailto:mvarga1989@gmail.com).
 
 ### Career
 - Job opportunities in geosciences and geospatial industry ([](https://github.com/mvarga1989/Awesome_Geospatial_jobs))
