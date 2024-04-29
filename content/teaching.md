@@ -42,7 +42,7 @@ The following topics are open at the moment:
 - Utilizing low-cost receivers and free GNSS processing software in establishing control geodetic networks ([**Description**](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/geosensors-eng-geodesy-dam/documents/Education/offered%20thesis/HS2023/GNSS_control_geodetic_networks_ETH_GSEG.pdf))
 
 
-## Students graduated or worked under my supervision
+## Supervised students
 I have been supervising the following students in unique projects:
 - Philippe Bättig
 - [Colin Wallimann](https://www.linkedin.com/in/colin-wallimann/)
