@@ -97,9 +97,9 @@ style = "github-dark"
   weight = 20
   url = "https://mvarga1989.github.io/mvarga1989_linktree/"
 [[menu.main]]
-  name = "CV/"
+  name = "CV"
   weight = 5
-  url="CV"
+  url="CV/"
  # url = "documents/MV_CV.pdf"
 [[menu.main]]
   name = "Contact"
