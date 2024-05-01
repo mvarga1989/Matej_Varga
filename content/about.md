@@ -6,7 +6,7 @@ title = "About me"
 
 I am working as a postdoctoral scientist, lecturer and teaching assistant at the [ETH Zürich](https://ethz.ch/de.html), [Institute of Geodesy and Photogrammetry](https://igp.ethz.ch/) in the group of [Geosensors and Engineering Geodesy](https://gseg.igp.ethz.ch/) led by [Prof. Dr. Andreas Wieser](https://gseg.igp.ethz.ch/people/group-head/prof-dr--andreas-wieser.html).
 
-I am passionate about collecting and processing geospatial data using various geodetic and geophysical measurement systems. I have extensive experience studying, using, and teaching with GNSS, total stations, levels, terrestrial laser scanners, laser trackers, cameras, radar, gravimeters, and magnetometers.
+I am passionate about collecting and processing geospatial data using various geodetic and geophysical measurement systems. I have extensive experience studying, using, and teaching with GNSS, total stations, levels, terrestrial laser scanners, cameras, gravimeters, and magnetometers.
 
 ![2](Twitter_heading-min1.png)
 <!--- [<img src="Twitter_heading-min1.png"/>]() --->
@@ -46,22 +46,21 @@ My specific interests are in:
 - geoid modelling.
 
 ### Research portfolio
-The following contributions are selected from my research portfolio:
-- geoid and gravity field models of the Republic of Croatia, France (Auvergne), Colorado (USA), Mediterranean Sea
-- proposal for the modernization of the Croatian height reference system
-- development of geodetic reference system transformation algorithms, workflows and software, including distortion modelling, for several areas worldwide
-- post-seismic crustal deformation analysis, following 2020 Zagreb and Petrinja's earthquakes (Republic of Croatia)
-- 3D models of the cultural heritage sites
-- geomagnetic network establishment and surveying for the territory of the Republic of Croatia
-- geomagnetic network design of Switzerland
-- concept design of the coordinate reference systems for the CERN Future Circular Collider (FCC)
-- concept design of the surface and underground geodetic networks for the CERN FCC
-- concept for calibration, control and testing of the geodetic equipment for the CERN FCC
-- GNSS smartphone positioning and navigation in different conditions and areas (several datasets in Slovakia and the USA)
+- geoid and gravity field models of Europe, Republic of Croatia, France (Auvergne), Colorado (USA), Mediterranean Sea;
+- proposal for the modernization of the Croatian height reference system;
+- development of geodetic reference system transformation algorithms, workflows and software, including distortion modelling, for several areas worldwide;
+- post-seismic crustal deformation analysis, following 2020 Zagreb and Petrinja's earthquakes (Republic of Croatia);
+- 3D models of the cultural heritage sites;
+- geomagnetic network establishment and surveying for the territory of the Republic of Croatia;
+- geomagnetic network design of Switzerland;
+- concept design of the coordinate reference systems for the CERN Future Circular Collider (FCC);
+- concept design of the surface and underground geodetic networks for the CERN FCC;
+- concept for calibration, control and testing of the geodetic equipment for the CERN FCC;
+- GNSS smartphone positioning and navigation in different conditions and areas (several datasets in Slovakia and the USA).
 
 ### Academic and industry collaborations
 
-I have been involved in research and development (R&D) and consultancy projects as the principal or assisting researcher. Additionally, I perform expert and target-specific lecturing, training and capacity building for professionals coming from different fields and backgrounds.
+I have been involved in research and development (R&D) and consultancy projects as the principal or assisting researcher. Additionally, I perform target-specific lecturing, training and capacity building for industry staff coming from different fields and backgrounds.
 
 Interested in collaborating with me? Reach out via e-mail [:e-mail:](mailto:mvarga1989@gmail.com?Subject=Project%20collaboration%20inquiry)
 
