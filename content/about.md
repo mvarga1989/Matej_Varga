@@ -4,9 +4,9 @@ title = "About me"
 
 ![](/images/avatar.png#avatar-about)
 
-I am working as a postdoctoral scientist and teaching assistant at the [ETH Zürich](https://ethz.ch/de.html), [Institute of Geodesy and Photogrammetry](https://igp.ethz.ch/) in the group of [Geosensors and Engineering Geodesy](https://gseg.igp.ethz.ch/) led by [Prof. Dr. Andreas Wieser](https://gseg.igp.ethz.ch/people/group-head/prof-dr--andreas-wieser.html).
+I am working as a postdoctoral scientist, lecturer and teaching assistant at the [ETH Zürich](https://ethz.ch/de.html), [Institute of Geodesy and Photogrammetry](https://igp.ethz.ch/) in the group of [Geosensors and Engineering Geodesy](https://gseg.igp.ethz.ch/) led by [Prof. Dr. Andreas Wieser](https://gseg.igp.ethz.ch/people/group-head/prof-dr--andreas-wieser.html).
 
-I am passionate about geospatial data collection and processing using different measurement systems and applications. Instruments which I have specialised are GNSS, total station, level, terrestrial laser scanner, laser tracker, camera, radar, gravimeter, and magnetometer.
+I am passionate about collecting and processing geospatial data using various geodetic and geophysical measurement systems. I have extensive experience studying, using, and teaching with GNSS, total stations, levels, terrestrial laser scanners, laser trackers, cameras, radar, gravimeters, and magnetometers.
 
 ![2](Twitter_heading-min1.png)
 <!--- [<img src="Twitter_heading-min1.png"/>]() --->
@@ -16,22 +16,6 @@ I am passionate about geospatial data collection and processing using different 
 - [**All links**](https://mvarga1989.github.io/mvarga1989_linktree/)
 - Reach out via [:e-mail:](mailto:mvarga1989@gmail.com?Subject=Inquiry)
  --->
- 
-## Contents
-  - [Introduction](#introduction)
-  - [Contact](#contact)
-  - [Biography](#biography)
-  - [Professional Networks](#professional-networks)
-  - [News](#news)
-  - [Recent Projects](#recent-projects)
-  - [Professional Interests and Activities](#professional-interests-and-activities)
-    - [Selected Contributions](#selected-contributions)
-	- [Teaching](#teaching)
-  - [Academic And Industry Collaborations](#academic-and-industry-collaborations)
-    - [Supervising Students and Researchers](#supervising-students-and-researchers)
-	- [Offered student topics](#offered-open-topics)
-  - [Community Lists That I am Maintaining](#community-lists-that-i-am-maintaining)
-  - [GitHub Metrics](#github-metrics)
 
 ## News
 - [**2024/02/15**]: Leading several student projects, including (i)smartphone navigation using ML and factor graph optimization, (ii) total station and laser scanning testing and calibration, and (iii) 3D modelling of Lausanne Cathedral.
@@ -49,7 +33,7 @@ I am working on projects funded by the European Organization for Nuclear Researc
 
 ## Interests and Activities
 
-My broad interests are in geospatial sciences and industry. I am aiming to learn about novel theoretical findings and use them in original research applications. Topic-wise I am mostly focused on engineering, satellite, physical, and geometric geodesy, which have an enormous potential for complementarity in other scientific disciplines and industries. Thus, I have been intensively working on interdisciplinary projects with academic and industry professionals from geophysics, geoinformatics, agriculture, robotics, civil engineering and architecture.
+My broad interests are in geospatial sciences. I am constantly learning about novel theoretical findings and using them in research applications. Topic-wise I am mostly focused on engineering, satellite, physical, and geometric geodesy. These branches have an enormous potential for usage in other disciplines and industries. Thus, I have been working on interdisciplinary projects with professionals from geophysics, geoinformatics, agriculture, robotics, civil engineering and architecture.
 
 My specific interests are in:
 - geodetic reference systems (terrestrial, celestial, height and time);
