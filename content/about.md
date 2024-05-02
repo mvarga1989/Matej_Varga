@@ -33,17 +33,17 @@ I am working on projects funded by the European Organization for Nuclear Researc
 
 ## Interests and Activities
 
-My broad interests are in geospatial sciences. I am constantly learning about novel theoretical findings and using them in research applications. Topic-wise I am mostly focused on engineering, satellite, physical, and geometric geodesy. These branches have an enormous potential for usage in other disciplines and industries. Thus, I have been working on interdisciplinary projects with professionals from geophysics, geoinformatics, agriculture, robotics, civil engineering and architecture.
+My broad interests are in geospatial sciences. I am constantly learning about novel theoretical findings which one can use in practical applications. Topic-wise I am mostly focused on engineering, satellite, physical, and geometric geodesy. These branches have an enormous potential in other academic disciplines and industries. I have been working on interdisciplinary projects with professionals from geophysics, geoinformatics, agriculture, robotics, civil engineering and architecture.
 
 My specific interests are in:
 - geodetic reference systems (terrestrial, celestial, height and time);
 - geospatial data collection, processing, integration, analysis, and interpretation using GNSS, total station, level, terrestrial laser scanner, laser tracker, camera, radar, gravimeter, and magnetometer;
-- high-precision GNSS and navigation;
+- high-precision GNSS, geodynamics and navigation;
 - geodetic networks;
 - 3D reality digitization and modelling;
 - geodetic monitoring of infrastructural, industrial and environmental objects;
-- gravity and magnetic field modelling;
-- geoid modelling.
+- gravity and magnetic field modelling at local and regional spatial scales;
+- geoid modelling at local and regional spatial scales.
 
 ### Research portfolio
 - geoid and gravity field models of Europe, Republic of Croatia, France (Auvergne), Colorado (USA), Mediterranean Sea;
