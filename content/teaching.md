@@ -21,9 +21,9 @@ title = "Teaching"
 
 ## Supervising students and researchers
 
-I am accepting the supervision of responsible and motivated internal (ETHZ) and external students at the **BSc**, **MSc**, and **PhD** levels.
+I am happy to accept supervision of responsible and motivated internal (ETHZ) and external students at the **BSc**, **MSc**, and **PhD** levels.
 
-Topics are not necessarily predetermined and can be adapted to student's preferences and ideas. If you have an idea and wish to pursue your topic within my research scope, please send me a brief research plan.
+Topics are **not necessarily predetermined** and **can be adapted to student's preferences** and ideas. If you have an idea and wish to pursue your topic within my research scope, please prepare a brief research plan.
 
 Most of the topics can be taken as a Bachelor's, Master’s thesis, or even adapted as a Master's project.
 
