@@ -44,24 +44,6 @@ The following topics are open at the moment:
 ## Supervised students
 I have supervised the following colleagues in their student projects:
 
-- Philippe Bättig
-- [Colin Wallimann](https://www.linkedin.com/in/colin-wallimann/)
-- Nils Meier
-- Nando Grossenbacher
-- Merlin Alfredsson
-- [Thierry Weber](https://www.linkedin.com/in/thierry-weber-a2aa4127a/)
-- [Fabrice Lardon](https://www.linkedin.com/in/fabrice-lardon-2127bb26b/)
-- [Felix Piringer](https://www.linkedin.com/in/felixpiringer/)
-- [Marta Pipić (Pokupić)](http://geosistem.hr/o-nama/)
-- Šime Skočić
-- Sara Flegar
-- [Tihomir Tomić](https://www.linkedin.com/in/tihomir-tomi%C4%87-414b60217/)
-- [Igor Grgac](https://www.linkedin.com/in/igrgac/)
-- Ivana Vidić
-- Matea Vidaković
-- Andrea Bašić
-- Mia Lozo
-- Antonio David Šiško
-- Thomas Denich-Balog
+- Philippe Bättig, [Colin Wallimann](https://www.linkedin.com/in/colin-wallimann/), Nils Meier, Nando Grossenbacher, Merlin Alfredsson, [Thierry Weber](https://www.linkedin.com/in/thierry-weber-a2aa4127a/), [Fabrice Lardon](https://www.linkedin.com/in/fabrice-lardon-2127bb26b/), [Felix Piringer](https://www.linkedin.com/in/felixpiringer/), Marta Pipić (Pokupić), Šime Skočić, Sara Flegar, [Tihomir Tomić](https://www.linkedin.com/in/tihomir-tomi%C4%87-414b60217/), [Igor Grgac](https://www.linkedin.com/in/igrgac/), Ivana Vidić, Matea Vidaković, Andrea Bašić, Mia Lozo, Antonio David Šiško, Thomas Denich-Balog
 
-Check out their thesis'  [**here**](publications/#mentoring-and-supervision).
+**Check out their thesis'  [**here**](publications/#mentoring-and-supervision).
