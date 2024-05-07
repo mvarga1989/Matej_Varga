@@ -8,7 +8,7 @@
 
 </div>
 
-All my links (Linktree) is available here [](https://mvarga1989.github.io/mvarga1989_linktree/)
+All my links (Linktree) are available here [](https://mvarga1989.github.io/mvarga1989_linktree/)
 
 Digital visit card (vcard) can be downloaded here [](https://mvarga1989.github.io/mvarga1989_linktree/images/Matej_Varga_ETH.vcf)
 

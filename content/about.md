@@ -63,5 +63,3 @@ My specific interests are in:
 I have been involved in research and development (R&D) and consultancy projects as the principal or assisting researcher. Additionally, I perform target-specific lecturing, training and capacity building for industry staff coming from different fields and backgrounds.
 
 Interested in collaborating with me? Reach out via e-mail [:e-mail:](mailto:mvarga1989@gmail.com?Subject=Project%20collaboration%20inquiry)
-
-## Community lists that I maintain on GitHub ![]()
