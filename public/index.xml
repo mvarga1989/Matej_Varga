@@ -12,14 +12,14 @@
       <link>http://localhost:1313/Matej_Varga/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Matej_Varga/contact/</guid>
-      <description>Contact Link to heading All my links (Linktree) is available here Digital visit card (vcard) can be downloaded here Digital visit card (vcard) scan:</description>
+      <description>Contact Link to heading All my links (Linktree) are available here Digital visit card (vcard) can be downloaded here Digital visit card (vcard) scan:</description>
     </item>
     <item>
       <title>About me</title>
       <link>http://localhost:1313/Matej_Varga/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Matej_Varga/about/</guid>
-      <description>I am working as a postdoctoral scientist and teaching assistant at the ETH Zürich, Institute of Geodesy and Photogrammetry in the group of Geosensors and Engineering Geodesy led by Prof. Dr. Andreas Wieser.&#xA;I am passionate about geospatial data collection and processing using different measurement systems and applications. Instruments which I have specialised are GNSS, total station, level, terrestrial laser scanner, laser tracker, camera, radar, gravimeter, and magnetometer.&#xA;Contents Link to heading Introduction Contact Biography Professional Networks News Recent Projects Professional Interests and Activities Selected Contributions Teaching Academic And Industry Collaborations Supervising Students and Researchers Offered student topics Community Lists That I am Maintaining GitHub Metrics News Link to heading [2024/02/15]: Leading several student projects, including (i)smartphone navigation using ML and factor graph optimization, (ii) total station and laser scanning testing and calibration, and (iii) 3D modelling of Lausanne Cathedral.</description>
+      <description>I am working as a postdoctoral scientist, lecturer and teaching assistant at the ETH Zürich, Institute of Geodesy and Photogrammetry in the group of Geosensors and Engineering Geodesy led by Prof. Dr. Andreas Wieser.&#xA;I am passionate about collecting, analyzing, integration and interpretation of geospatial data using different measurement systems. I have extensive experience with geodetic and geophysical instruments, including GNSS, total stations, levels, terrestrial laser scanners, cameras, gravimeters, and magnetometers.</description>
     </item>
     <item>
       <title>CV</title>
@@ -47,7 +47,7 @@
       <link>http://localhost:1313/Matej_Varga/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Matej_Varga/teaching/</guid>
-      <description>Lectures, exercises, seminars Link to heading Course name Total semesters Responsibilities Engineering Geodesy 4 E, S, C Geospatial Reference Systems and Geometrical Geodesy 11 L, E, S Physical Geodesy 8 L, E Geophysical Geodesy 6 S Geomagnetism 6 E, S, C Satellite Geodesy 5 E, C Global Geodesy 5 S Navigation 2 E, C Analysis and Processing of Geodetic Measurements 2 E Industrial Metrology and Machine Vision 1 S Special algorithms for processing geodetic measurements 1 E &amp;#x26a0;&amp;#xfe0f; L: lectures, E: exercises, S: seminar, C: field campaigns Supervising students and researchers Link to heading I am accepting the supervision of responsible and motivated internal (ETHZ) and external students at the BSc, MSc, and PhD levels.</description>
+      <description>Lectures, exercises, seminars Link to heading Course name Total semesters Responsibilities Engineering Geodesy 4 E, S, C Geospatial Reference Systems and Geometrical Geodesy 11 L, E, S Physical Geodesy 8 L, E Geophysical Geodesy 6 S Geomagnetism 6 E, S, C Satellite Geodesy 5 E, C Global Geodesy 5 S Navigation 2 E, C Analysis and Processing of Geodetic Measurements 2 E Industrial Metrology and Machine Vision 1 S Special algorithms for processing geodetic measurements 1 E &amp;#x26a0;&amp;#xfe0f; L: lectures, E: exercises, S: seminar, C: field campaigns Supervising students and researchers Link to heading I am happy to accept supervision of responsible and motivated internal (ETHZ) and external students at the BSc, MSc, and PhD levels.</description>
     </item>
   </channel>
 </rss>

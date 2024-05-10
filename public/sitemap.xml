@@ -1,33 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://localhost:1313/Matej_Varga/contact/</loc>
-    <lastmod>2024-04-29T11:47:40+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Matej_Varga/about/</loc>
-    <lastmod>2024-04-29T11:59:04+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Matej_Varga/authors/</loc>
-  </url><url>
-    <loc>http://localhost:1313/Matej_Varga/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/Matej_Varga/cv/</loc>
-    <lastmod>2024-04-29T11:42:25+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Matej_Varga/</loc>
-    <lastmod>2024-04-29T11:59:04+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Matej_Varga/publications/</loc>
-  </url><url>
-    <loc>http://localhost:1313/Matej_Varga/research/</loc>
-    <lastmod>2024-04-26T16:10:31+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Matej_Varga/series/</loc>
-  </url><url>
-    <loc>http://localhost:1313/Matej_Varga/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/Matej_Varga/teaching/</loc>
-    <lastmod>2024-04-29T11:34:44+02:00</lastmod>
-  </url>
+  
+    <url>
+      <loc>http://localhost:1313/Matej_Varga/contact/</loc>
+      
+        <lastmod>2024-05-07T11:19:30+02:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/Matej_Varga/about/</loc>
+      
+        <lastmod>2024-05-07T11:19:30+02:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/Matej_Varga/authors/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/Matej_Varga/categories/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/Matej_Varga/cv/</loc>
+      
+        <lastmod>2024-04-29T11:42:25+02:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/Matej_Varga/</loc>
+      
+        <lastmod>2024-05-07T11:19:30+02:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/Matej_Varga/tags/matej-varga/</loc>
+      
+        <lastmod>2024-05-07T11:19:30+02:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/Matej_Varga/publications/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/Matej_Varga/research/</loc>
+      
+        <lastmod>2024-04-26T16:10:31+02:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/Matej_Varga/series/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/Matej_Varga/tags/</loc>
+      
+        <lastmod>2024-05-07T11:19:30+02:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/Matej_Varga/teaching/</loc>
+      
+        <lastmod>2024-05-03T18:49:15+02:00</lastmod>
+      
+      
+    </url>
+  
 </urlset>
+
