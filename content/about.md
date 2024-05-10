@@ -5,7 +5,15 @@ draft= "false"
 tags = ["Matej Varga"]
 +++
 
-![](/images/avatar.png#avatar-about)
+<!--- ![](/images/avatar.png#avatar-about)--->
+
+<!-- toc -->
+- [Interests and Activities](#interests-and-activities)
+- [Research portfolio](#research-portfolio)
+- [Projects](#projects)
+- [Academic and industry collaborations](#academic-and-industry-collaborations)
+- [News](#news)
+<!-- tocstop -->
 
 I am working as a postdoctoral scientist, lecturer and teaching assistant at the [ETH Zürich](https://ethz.ch/de.html), [Institute of Geodesy and Photogrammetry](https://igp.ethz.ch/) in the group of [Geosensors and Engineering Geodesy](https://gseg.igp.ethz.ch/) led by [Prof. Dr. Andreas Wieser](https://gseg.igp.ethz.ch/people/group-head/prof-dr--andreas-wieser.html).
 
@@ -23,7 +31,7 @@ I am passionate about collecting, analyzing, integration and interpretation of g
 
 ## Interests and Activities
 
-My broad interests are in geospatial sciences. I am constantly learning about novel theoretical findings which can be used in practical applications. Topic-wise I am mostly focused on engineering, satellite, physical, and geometric geodesy. These branches have an enormous potential in other academic disciplines and industries. I have been working on interdisciplinary projects with professionals from geophysics, geoinformatics, agriculture, robotics, civil engineering and architecture.
+My broad interests are in geospatial sciences. I am constantly learning novel theoretical findings which can be implemented in practical applications. Topic-wise I am mostly focused on engineering, satellite, physical, and geometric geodesy. These branches have an enormous potential in other academic disciplines and industries. I have been working on interdisciplinary projects with professionals from geophysics, geoinformatics, agriculture, robotics, civil engineering and architecture.
 
 My specific interests are in:
 - geodetic reference systems (terrestrial, celestial, height and time);
