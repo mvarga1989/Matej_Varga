@@ -2,6 +2,7 @@
 title = "Teaching"
 +++
 
+## Table of contents
 <!-- toc -->
 
 - [Lectures, exercises, seminars](#lectures-exercises-seminars)
@@ -51,7 +52,7 @@ The following topics are open at the moment:
 
 
 ## Supervised students
-I have supervised the following colleagues in their student projects:
+I have supervised the following students in their projects at the Bachelor and Master levels:
 
 - Philippe Bättig, [Colin Wallimann](https://www.linkedin.com/in/colin-wallimann/), Nils Meier, Nando Grossenbacher, Merlin Alfredsson, [Thierry Weber](https://www.linkedin.com/in/thierry-weber-a2aa4127a/), [Fabrice Lardon](https://www.linkedin.com/in/fabrice-lardon-2127bb26b/), [Felix Piringer](https://www.linkedin.com/in/felixpiringer/), Marta Pipić (Pokupić), Šime Skočić, Sara Flegar, [Tihomir Tomić](https://www.linkedin.com/in/tihomir-tomi%C4%87-414b60217/), [Igor Grgac](https://www.linkedin.com/in/igrgac/), Ivana Vidić, Matea Vidaković, Andrea Bašić, Mia Lozo, Antonio David Šiško, Thomas Denich-Balog
 

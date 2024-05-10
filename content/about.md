@@ -7,7 +7,9 @@ tags = ["Matej Varga"]
 
 <!--- ![](/images/avatar.png#avatar-about)--->
 
+## Table of contents
 <!-- toc -->
+- [Introduction](#introduction)
 - [Interests and Activities](#interests-and-activities)
 - [Research portfolio](#research-portfolio)
 - [Projects](#projects)
@@ -15,6 +17,7 @@ tags = ["Matej Varga"]
 - [News](#news)
 <!-- tocstop -->
 
+## Introduction
 I am working as a postdoctoral scientist, lecturer and teaching assistant at the [ETH Zürich](https://ethz.ch/de.html), [Institute of Geodesy and Photogrammetry](https://igp.ethz.ch/) in the group of [Geosensors and Engineering Geodesy](https://gseg.igp.ethz.ch/) led by [Prof. Dr. Andreas Wieser](https://gseg.igp.ethz.ch/people/group-head/prof-dr--andreas-wieser.html).
 
 I am passionate about collecting, analyzing, integration and interpretation of geospatial data using different measurement systems. I have extensive experience with geodetic and geophysical instruments, including GNSS, total stations, levels, terrestrial laser scanners, cameras, gravimeters, and magnetometers. 

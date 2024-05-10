@@ -7,6 +7,8 @@ author]{.underline} and/or [presenter]{.underline}.\* --->
 
 <!---  ***Bold Italic*** stands for ***title of the reference***.\*\* --->
 
+
+## Table of contents
 <!-- toc -->
 
 - [**Books**](#books)
