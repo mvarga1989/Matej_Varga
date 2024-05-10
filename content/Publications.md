@@ -7,6 +7,17 @@ author]{.underline} and/or [presenter]{.underline}.\* --->
 
 <!---  ***Bold Italic*** stands for ***title of the reference***.\*\* --->
 
+<!-- toc -->
+
+- [**Books**](#books)
+- [**Project reports**](#project-reports)
+- [**Articles in international journals**](#articles-in-international-journals)
+- [**Articles in other journals**](#articles-in-other-journals)
+- [**International and national oral presentations, conference proceeding papers and posters**](#international-and-national-oral-presentations-conference-proceeding-papers-and-posters)
+- [**Presentations and other contributions**](#presentations-and-other-contributions)
+- [**Mentoring and supervision**](#mentoring-and-supervision)
+
+<!-- tocstop -->
 
 ## **Books**
 

@@ -2,6 +2,15 @@
 title = "Teaching"
 +++
 
+<!-- toc -->
+
+- [Lectures, exercises, seminars](#lectures-exercises-seminars)
+- [Supervising students and researchers](#supervising-students-and-researchers)
+  * [Offered (open) topics](#offered-open-topics)
+- [Supervised students](#supervised-students)
+
+<!-- tocstop -->
+
 ## Lectures, exercises, seminars
 
 | Course name                                           | Total semesters | Responsibilities                                 |
