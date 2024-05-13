@@ -20,7 +20,7 @@ tags = ["Matej Varga"]
 ## Introduction
 I am working as a postdoctoral scientist, lecturer and teaching assistant at the [ETH Zürich](https://ethz.ch/de.html), [Institute of Geodesy and Photogrammetry](https://igp.ethz.ch/) in the group of [Geosensors and Engineering Geodesy](https://gseg.igp.ethz.ch/) led by [Prof. Dr. Andreas Wieser](https://gseg.igp.ethz.ch/people/group-head/prof-dr--andreas-wieser.html).
 
-I am passionate about collecting, analyzing, integration and interpretation of geospatial data using different measurement systems. I have extensive experience with geodetic and geophysical instruments, including GNSS, total stations, levels, terrestrial laser scanners, cameras, gravimeters, and magnetometers. 
+I am passionate about collecting, analyzing, integration and interpretation of geospatial data from different measurement systems. I have extensive experience with geodetic and geophysical instruments, including GNSS, total stations, levels, terrestrial laser scanners, RGB cameras, gravimeters, and magnetometers. 
 
 
 ![2](Twitter_heading-min1.png)
@@ -34,9 +34,9 @@ I am passionate about collecting, analyzing, integration and interpretation of g
 
 ## Interests and Activities
 
-My broad interests are in geospatial sciences. I am constantly learning novel theoretical findings which can be implemented in practical applications. Topic-wise I am mostly focused on engineering, satellite, physical, and geometric geodesy. These branches have an enormous potential in other academic disciplines and industries. I have been working on interdisciplinary projects with professionals from geophysics, geoinformatics, agriculture, robotics, civil engineering and architecture.
+My broadest professional interests are in **geospatial sciences**. I am constantly developing and studying **novel theoretical findings** which can be implemented in **practical applications**. Topic-wise I am mostly focused on **engineering**, **satellite**, **physical**, and **geometric geodesy**. These branches have an enormous potential in other academic disciplines and industries. I have been working on interdisciplinary projects with professionals from geophysics, geoinformatics, agriculture, robotics, civil engineering and architecture.
 
-My specific interests are in:
+My **specific interests** are in:
 - geodetic reference systems (terrestrial, celestial, height and time);
 - geospatial data collection, processing, integration, analysis, and interpretation using GNSS, total station, level, terrestrial laser scanner, laser tracker, camera, radar, gravimeter, and magnetometer;
 - high-precision GNSS, geodynamics and navigation;
@@ -47,7 +47,7 @@ My specific interests are in:
 - geoid modelling at local and regional spatial scales.
 
 ## Research portfolio
-My contributions are:
+My research contributions are:
 - geoid and gravity field models of Europe, Republic of Croatia, France (Auvergne), Colorado (USA), Mediterranean Sea;
 - proposal for the modernization of the Croatian height reference system;
 - development of geodetic reference system transformation algorithms, workflows and software, including distortion modelling, for several areas worldwide;
@@ -67,7 +67,7 @@ I am involved in projects supported by the European Organization for Nuclear Res
 
 ## Academic and industry collaborations
 
-My expertise extends beyond scientific research and lecturing. I am providing **specific lectures**, **training**, and **capacity building** to help **professionals from diverse backgrounds gain geomatics, geodesy and land surveying skills.
+My expertise extends beyond scientific research and lecturing. I am providing **specific lectures**, **training**, and **capacity building** to help **professionals from diverse backgrounds** improve geomatics, geodesy and land surveying knowledge and practical skills.
 
 Interested in **collaborating** with me? Reach out via e-mail [:e-mail:](mailto:mvarga1989@gmail.com?Subject=Project%20collaboration%20inquiry)
 
