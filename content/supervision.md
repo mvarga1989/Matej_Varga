@@ -15,7 +15,7 @@ Most of the topics can be taken as a Bachelor's, Master’s thesis, or even adap
 
 The following topics are open at the moment:
 - E-scooter positioning in urban environments ([**Description**](../thesistopics/e_scooter_positioning_in_urban_environments/))
-- Performance of e-Scooter+IPhone mobile mapping system ([**Description**](../thesistopics/performance_of_e_Scooter_IPhone_14_mobile_mapping_system/))
+- Performance of an e-Scooter+IPhone mobile mapping system ([**Description**](../thesistopics/performance_of_e_scooter_iphone_14_mobile_mapping_system/))
 - 3D model of the Lausanne cathedral ([**Description**](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/geosensors-eng-geodesy-dam/documents/Education/offered%20thesis/HS2023/3D_model_cathedral_ETH_GSEG.pdf))
 - GNSS-smartphone navigation in urban environments using machine learning techniques ([**Description**](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/geosensors-eng-geodesy-dam/documents/Education/offered%20thesis/HS2023/GNSS_smartphone_navigation_ETH_GSEG.pdf))
 - Automate scanning-based deformation monitoring of the MAST facility at ETH ([**Description**](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/geosensors-eng-geodesy-dam/documents/Education/offered%20thesis/FS2023/MSc_Topics_FS2023_GSEG_7.pdf))
@@ -29,4 +29,4 @@ I have supervised the following students in their projects at the Bachelor and M
 
 - Philippe Bättig, [Colin Wallimann](https://www.linkedin.com/in/colin-wallimann/), Nils Meier, Nando Grossenbacher, Merlin Alfredsson, [Thierry Weber](https://www.linkedin.com/in/thierry-weber-a2aa4127a/), [Fabrice Lardon](https://www.linkedin.com/in/fabrice-lardon-2127bb26b/), [Felix Piringer](https://www.linkedin.com/in/felixpiringer/), Marta Pipić (Pokupić), Šime Skočić, Sara Flegar, [Tihomir Tomić](https://www.linkedin.com/in/tihomir-tomi%C4%87-414b60217/), [Igor Grgac](https://www.linkedin.com/in/igrgac/), Ivana Vidić, Matea Vidaković, Andrea Bašić, Mia Lozo, Antonio David Šiško, Thomas Denich-Balog
 
-**Check out their thesis'  [**here**](../publications/#mentoring-and-supervision).
+**Check out their thesis**  [**here**](../publications/#mentoring-and-supervision).
