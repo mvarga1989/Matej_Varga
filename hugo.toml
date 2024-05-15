@@ -92,17 +92,22 @@ style = "github-dark"
   name = "Teaching"
   weight = 4
   url = "teaching/"
+  #teaching
+  [[menu.main]]
+  name = "Supervision"
+  weight = 5
+  url = "supervision/"
 [[menu.main]]
   name = "Linktree"
   weight = 20
   url = "https://mvarga1989.github.io/mvarga1989_linktree/"
 [[menu.main]]
   name = "CV"
-  weight = 5
+  weight = 10
   url="cv/"
 [[menu.main]]
   name = "Contact"
-  weight = 10
+  weight = 100
   url = "contact/"
 # [menu]
 #   [[menu.main]]
