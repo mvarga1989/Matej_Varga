@@ -4,19 +4,19 @@ title = "Consultancy"
 
 Scientific and academic consultancy:
 - academic advertisement
-   - creation and maintenance of the LinkedIn profile
-   - academic web-pages creation and maintenance
+   - LinkedIn profile
+   - academic web-pages
    - paper dissemination
-- academic consultancy
-   - academic career planning
-   - PhD thesis planning (e.g. cummulative)
-   - PhD proposal preparation and revision
+- academic career planning
+   - PhD thesis planning
+   - PhD proposals
 - paper writing consultancy
    - joint paper preparation
 - paper revision
-   - language/grammar corrections
+   - proofreading
    - figures preparation
    - references suggestion
-- Matlab and Python programming
-- images preparation open-source software packages (using TikZ, InkScape and other)
-- document preparation using open-source software (Latex, Latex Beamer, MS packages)
+   - language and grammar corrections
+- programming in Matlab and Python
+- images preparation in open-source software packages (using TikZ, InkScape and other)
+- document preparation in open-source software (Latex, Latex Beamer, MS packages)
