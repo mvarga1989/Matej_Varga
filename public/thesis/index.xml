@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theses on Matej Varga</title>
+    <link>http://localhost:57435/Matej_Varga/thesis/</link>
+    <description>Recent content in Theses on Matej Varga</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 May 2024 10:21:19 +0200</lastBuildDate>
+    <atom:link href="http://localhost:57435/Matej_Varga/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>E-scooter positioning in urban environments</title>
+      <link>http://localhost:57435/Matej_Varga/thesis/e-scooter_positioning_in_urban_environments/</link>
+      <pubDate>Wed, 15 May 2024 10:21:19 +0200</pubDate>
+      <guid>http://localhost:57435/Matej_Varga/thesis/e-scooter_positioning_in_urban_environments/</guid>
+      <description>Information Link to heading Chair/professorship: Geosensors and Engineering Geodesy (GSEG) Supervisor: Prof. Dr. Andreas Wieser Advisor: Matej Varga Suitable for: BSc/Mc/Master project Number of students per group: 1-4 Maximum number of groups 1&#xA;Abstract Link to heading E-scooters in cities rely on sensors for positioning which can only provide 3-10 meters accuracy. Many applications require sub-meter accuracy in real time. Installing expensive, high-quality hardware on large number of e-scooters is costly and impractical.</description>
+    </item>
+  </channel>
+</rss>

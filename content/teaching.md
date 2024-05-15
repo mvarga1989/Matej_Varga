@@ -43,6 +43,7 @@ Most of the topics can be taken as a Bachelor's, Master’s thesis, or even adap
 ### Offered (open) topics
 
 The following topics are open at the moment:
+- Ee-scooter positioning in urban environments ([**Description**](E_scooter_positioning_in_urban_environments.md))
 - 3D model of the Lausanne cathedral ([**Description**](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/geosensors-eng-geodesy-dam/documents/Education/offered%20thesis/HS2023/3D_model_cathedral_ETH_GSEG.pdf))
 - GNSS-smartphone navigation in urban environments using machine learning techniques ([**Description**](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/geosensors-eng-geodesy-dam/documents/Education/offered%20thesis/HS2023/GNSS_smartphone_navigation_ETH_GSEG.pdf))
 - Automate scanning-based deformation monitoring of the MAST facility at ETH ([**Description**](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/geosensors-eng-geodesy-dam/documents/Education/offered%20thesis/FS2023/MSc_Topics_FS2023_GSEG_7.pdf))
