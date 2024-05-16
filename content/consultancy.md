@@ -1,7 +1,7 @@
 +++
 title = "Consultancy"
 +++
-s
+
 Scientific and academic consultancy
 - academic advertisement
    - Website & Social Media
