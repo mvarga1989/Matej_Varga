@@ -2,24 +2,32 @@
 title = "Consultancy"
 +++
 
-Scientific and academic consultancy:
+Scientific and academic consultancy
 - academic advertisement
-   - LinkedIn profile
-   - academic web-pages
+   - Website & Social Media
+       - LinkedIn profile
+       - academic web-pages
    - paper dissemination
-   - CV prearation
+   - Curriculum Vitae (CV) Preparation
 - academic career planning
-   - thesis planning
-   - thesis proposals
-   - after graduation planning
-   - job application and interview preparation
-- paper writing consultancy
-   - joint paper preparation
+   - publication strategy development
+   - support in thesis planning and proposals
+   - post-graduation planning
+   - job application and interview preparation coaching
+- academic networking
+   - building professional networks
+- research proposal development
+   - grant writing
+   - project planning
+- project, papers and presentation preparation
+   - conference presentation preparation and rehearsal
 - paper revision
    - proofreading
    - figures preparation
    - references suggestion
-   - language and grammar corrections
+   - literature review assistance
+   - english language and grammar corrections
+- geospatial data analysis and Interpretation
 - programming in Matlab, Python and Fortran
-- images preparation in open-source software packages (e.g. TikZ, InkScape and other)
+- images preparation in open-source software packages (e.g. TikZ, InkScape)
 - document preparation in open-source software (e.g. Latex, Latex Beamer, MS packages)
