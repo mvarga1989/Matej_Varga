@@ -7,9 +7,12 @@ Scientific and academic consultancy:
    - LinkedIn profile
    - academic web-pages
    - paper dissemination
+   - CV prearation
 - academic career planning
-   - PhD thesis planning
-   - PhD proposals
+   - thesis planning
+   - thesis proposals
+   - after graduation planning
+   - job application and interview preparation
 - paper writing consultancy
    - joint paper preparation
 - paper revision
@@ -17,6 +20,6 @@ Scientific and academic consultancy:
    - figures preparation
    - references suggestion
    - language and grammar corrections
-- programming in Matlab and Python
-- images preparation in open-source software packages (using TikZ, InkScape and other)
-- document preparation in open-source software (Latex, Latex Beamer, MS packages)
+- programming in Matlab, Python and Fortran
+- images preparation in open-source software packages (e.g. TikZ, InkScape and other)
+- document preparation in open-source software (e.g. Latex, Latex Beamer, MS packages)
