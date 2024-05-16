@@ -16,7 +16,7 @@ style = "github-dark"
 
 [params]
   author = "Matej Varga, MSc, PhD"
-  info = "scientist  | lecturer  <br />  Geodesist | Geomatics engineer"
+  info = "scientist  | lecturer  <br />  geodesist | geomatics engineer"
   description = "Matej Varga"
   keywords = "geodesy,geomatics,geospatial,engineering"
   avatarurl = "images/avatar1.png"
@@ -101,6 +101,10 @@ style = "github-dark"
   name = "Supervision"
   weight = 5
   url = "supervision/"
+[[menu.main]]
+  name = "Posts"
+  weight = 9
+  url="posts/"
 [[menu.main]]
   name = "Linktree"
   weight = 20
