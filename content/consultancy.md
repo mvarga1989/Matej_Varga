@@ -2,7 +2,6 @@
 title = "Consultancy"
 +++
 
-Scientific and academic consultancy
 - academic advertisement
    - Website & Social Media
        - LinkedIn profile
@@ -16,6 +15,7 @@ Scientific and academic consultancy
    - job application and interview preparation coaching
 - academic networking
    - building professional networks
+   - career events
 - research proposal development
    - grant writing
    - project planning
