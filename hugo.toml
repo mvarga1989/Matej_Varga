@@ -98,10 +98,6 @@ style = "github-dark"
   weight = 5
   url = "supervision/"
 [[menu.main]]
-  name = "Posts"
-  weight = 9
-  url="posts/"
-[[menu.main]]
   name = "Linktree"
   weight = 20
   url = "https://mvarga1989.github.io/mvarga1989_linktree/"
@@ -113,6 +109,10 @@ style = "github-dark"
   name = "Contact"
   weight = 100
   url = "contact/"
+#[[menu.main]]
+#  name = "Posts"
+#  weight = 9
+#  url="posts/"
 #[[menu.main]]
 #  name = "Consultancy"
 #  weight = 2
