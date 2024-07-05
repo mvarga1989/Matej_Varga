@@ -83,10 +83,10 @@ style = "github-dark"
   name = "About me"
   weight = 2
   url = "about/"
-[[menu.main]]
-  name = "Consultancy"
-  weight = 2
-  url = "consultancy/"
+#[[menu.main]]
+#  name = "Consultancy"
+#  weight = 2
+#  url = "consultancy/"
 [[menu.main]]
   name = "Publications"
   weight = 3

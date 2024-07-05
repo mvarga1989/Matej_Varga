@@ -10,7 +10,7 @@
 
 All my links (Linktree) are available here [](https://mvarga1989.github.io/mvarga1989_linktree/)
 
-Digital visit card (vcard) can be downloaded here [](https://mvarga1989.github.io/mvarga1989_linktree/images/Matej_Varga_ETH.vcf)
+You may download the digital visit card (vcard) here [](https://mvarga1989.github.io/mvarga1989_linktree/images/Matej_Varga_ETH.vcf)
 
 Digital visit card (vcard) scan:
 <h1 align="center">
