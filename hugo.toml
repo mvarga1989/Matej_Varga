@@ -83,10 +83,6 @@ style = "github-dark"
   name = "About me"
   weight = 2
   url = "about/"
-#[[menu.main]]
-#  name = "Consultancy"
-#  weight = 2
-#  url = "consultancy/"
 [[menu.main]]
   name = "Publications"
   weight = 3
@@ -117,6 +113,10 @@ style = "github-dark"
   name = "Contact"
   weight = 100
   url = "contact/"
+#[[menu.main]]
+#  name = "Consultancy"
+#  weight = 2
+#  url = "consultancy/"
 # [menu]
 #   [[menu.main]]
 #     identifier = "category"
